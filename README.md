@@ -8,6 +8,8 @@ Through the development of this project, I learned how to use JavaScript to iter
 
 <img src="./img/output-console-finances.png" alt="console-finances" title="APT portfolio">
 
+https://nowinoa.github.io/Console-Finances/
+
 ## Table of Contents
 - Installation
 - Usage
